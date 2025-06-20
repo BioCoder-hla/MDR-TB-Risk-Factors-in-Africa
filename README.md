@@ -4,12 +4,12 @@ The **WHO-MDR-TB-Africa-Risk-Factors** repository contains a comprehensive analy
 
 # Installation
 
-# Clone the repository:
+## Clone the repository:
 https://github.com/ambitious-bioinformatician/WHO-MDR-TB-Africa-Risk-Factors.git
 
 # Data Source
 
-# WHO TB data from Kaggle.
+## WHO TB data from Kaggle.
 Link to dataset: https://www.kaggle.com/datasets/laimalukoeviit/global-tb-cases-population-and-income-data
 
 # Key Findings
