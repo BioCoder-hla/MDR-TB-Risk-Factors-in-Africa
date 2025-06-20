@@ -1,4 +1,4 @@
-# WHO-MDR-TB-Africa-Risk-Factors
+# Identification of Risk Factors for MDR-TB in Africa
 
 The **WHO-MDR-TB-Africa-Risk-Factors** repository contains a comprehensive analysis of WHO tuberculosis data to identify key risk factors for multidrug-resistant tuberculosis (MDR-TB) in African populations. Using machine learning techniques, including Random Forest, Logistic Regression, SVM, KNN, and Gradient Boosting, the project preprocesses and analyzes data from African countries, focusing on variables such as HIV co-infection, retreatment cases, and demographics. Exploratory data analysis (EDA) and visualizations, including regional prevalence maps and correlation plots, reveal insights into MDR-TB burden, with Southern Africa, particularly South Africa, showing the highest prevalence. The Random Forest model, achieving an average cross-validation accuracy of 86.6%, identifies HIV-positive TB cases as the most significant risk factor. The repository aims to inform targeted interventions and public health policies to mitigate drug-resistant TB in Africa.
 
